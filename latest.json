@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.20",
-    "zip":  "beats-2.2.20.zip",
-    "sha256":  "bc3e990c83b09578369199a21cf47b46a5ac1ead1f94c58f0194f669a8da792a",
-    "notes":  "Tolti gli effetti Raggi e Anelli, al loro posto la nuova Costellazione: punti di luce uniti da fili che respirano con il brano. Nel lettore grande la riga del testo che si illumina ora sta in alto.",
-    "date":  "2026-11-14"
+    "version":  "2.2.21",
+    "zip":  "beats-2.2.21.zip",
+    "sha256":  "55a6d80c3a638e7d3878fea1d944f3441c8ee45a50f5e572ace22ba3893732f3",
+    "notes":  "Nuovo indirizzo per gli aggiornamenti",
+    "date":  "2026-11-24"
 }
