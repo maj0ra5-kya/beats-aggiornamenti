@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.22",
-    "zip":  "beats-2.2.22.zip",
-    "sha256":  "dbfdedc15dd66693ebfd6b102208ca6753f44c4a7c1e44adfcc73305e3aefe10",
-    "notes":  "Menu dell\u0027account intero nelle viste Brani, Album e Artisti",
-    "date":  "2026-11-24"
+    "version":  "2.2.23",
+    "zip":  "beats-2.2.23.zip",
+    "sha256":  "5980fe9b6c41ba6e6d6b5be8757ad534d0dbc07309fbce75fcedfa51b1a06a43",
+    "notes":  "Aggiornamenti più sicuri e nuovo indirizzo",
+    "date":  "2026-11-25"
 }
