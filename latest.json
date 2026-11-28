@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.23",
-    "zip":  "beats-2.2.23.zip",
-    "sha256":  "5980fe9b6c41ba6e6d6b5be8757ad534d0dbc07309fbce75fcedfa51b1a06a43",
-    "notes":  "Aggiornamenti più sicuri e nuovo indirizzo",
-    "date":  "2026-11-25"
+    "version":  "2.2.24",
+    "zip":  "beats-2.2.24.zip",
+    "sha256":  "83f93ef40e05f00086f4412ef993ea1864c73478c876b612db7026ba17cfbc37",
+    "notes":  "Comandi del lettore grande più leggibili sopra gli effetti",
+    "date":  "2026-11-28"
 }
